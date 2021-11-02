@@ -32,8 +32,6 @@
 <br />
 <br />
 
----
-#### Confidence....A fool's substitute for intelligence
 
 
 
