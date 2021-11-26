@@ -25,14 +25,19 @@
 - 💞️ Vue JS
 
 <br />
+
 <br />
 
-[![Ikecruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikecruz&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ikecruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikecruz&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Ikecruz's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ikecruz&theme=react&border=61dafb&hide_border=true)
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikecruz&layout=compact)
+#### Profile Visits
+
+![visitors](https://komarev.com/ghpvc/?username=Ikecruz)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikecruz&layout=compact) -->
 
 
 
