@@ -1,7 +1,7 @@
 ### IKEDINOBI ONYEKA @CRUZ
 
-[![Website](https://img.shields.io/website?label=devcruz.com.ng&style=for-the-badge&url=https%3A%2F%2Fdevcruz.com.ng)](https://devcruz.com.ng)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ikxcrxz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDevCruzTM&screen_name=DevCruzTM)
+[![Website](https://img.shields.io/website?label=Ikecruz&style=for-the-badge&url=https%3A%2F%2Fikecruz.dev)](https://ikecruz.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ikxcrxz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fikxcrxz&screen_name=ikxcrxz)
 
 ---
 
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DBFB&logo=React&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DBFB&logo=react&logoColor=FFFFFF&label=">
   <br>
   
 </p>
@@ -43,7 +43,7 @@
 
 
 
-[website]: https://devcruz.com.ng
+[website]: https://ikecruz.dev
 [twitter]: https://twitter.com/DevCruzTM
 [instagram]: https://www.instagram.com/dev.cruz_/
 [linkedin]: https://www.linkedin.com/in/onyeka-ikedinobi-98538b204/
