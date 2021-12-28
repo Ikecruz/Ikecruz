@@ -15,14 +15,15 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DBFB&logo=React&logoColor=FFFFFF&label=">
   <br>
   
 </p>
 
 - 👋 Hi, I’m Onyeka Ikedinobi. I am a Frontend Web Developer
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Vue.JS and also picking up other relevant skills.
-- 💞️ Vue JS
+- 🌱 I’m currently learning React and also picking up other relevant skills.
+- 💞️ Javascript
 
 <br />
 
