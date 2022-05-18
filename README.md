@@ -137,6 +137,12 @@
     </tbody>
 </table>
 
+<br />
+
+<img height="200px" src="https://c.tenor.com/oCzvjkjNQ-oAAAAM/cool.gif"/>
+
+<br />
+
 
 [website]: https://ikecruz.dev
 [twitter]: https://twitter.com/ikxcrxz
